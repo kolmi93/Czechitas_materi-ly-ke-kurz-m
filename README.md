@@ -27,7 +27,7 @@ navazující kurz, ve kterém si pohloubíte znalosti jazyka Python
 ### Úvod do programování 2
 1. Co všechno umíme
 2. Slicingy, metody, moduly
-3. Vlastní funkce
+3. Vlastní funkce - Bonus Asserty
 4. Další datové struktury
 5. Soubory: čtení a zápis
 6. JSON

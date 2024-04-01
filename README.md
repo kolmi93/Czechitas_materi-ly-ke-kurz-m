@@ -49,5 +49,5 @@
 *Kurz objektově orientovaného programování v jazyce Python*
 
 1. Proč používat objektově orientované programování
-2. [Třídy a objekty](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/Objektov%C4%9B%20orientovan%C3%A9%20programov%C3%A1n%C3%AD/04_OOP%20-%20%C3%BAvod)
-3. [Dědičnost](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/Objektov%C4%9B%20orientovan%C3%A9%20programov%C3%A1n%C3%AD/05_OOP%20-%20d%C4%9Bdi%C4%8Dnost)
+2. [Třídy a objekty](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/Objektov%C4%9B%20orientovan%C3%A9%20programov%C3%A1n%C3%AD/02_OOP_T%C5%99%C3%ADdy%20a%20objekty)
+3. [Dědičnost](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/Objektov%C4%9B%20orientovan%C3%A9%20programov%C3%A1n%C3%AD/03_OOP_D%C4%9Bdi%C4%8Dnost)

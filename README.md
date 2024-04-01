@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Řešení úloh ze stránek kodim.cz -> https://kodim.cz/czechitas
+*řešení úloh je přizpůsobeno aktuálním znalostem účastníků kurzů*
 
 ## Úvod do programování: Python
 *základy programování pro úplné nováčky*
@@ -49,5 +50,3 @@
 1. Proč používat objektově orientované programování
 2. Třídy a objekty
 3. Dědičnost
-
-

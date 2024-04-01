@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Řešení úloh ze stránek kodim.cz -> https://kodim.cz/czechitas
+
 *řešení úloh je přizpůsobeno aktuálním znalostem účastníků kurzů*
 
 ## Úvod do programování: Python

@@ -41,7 +41,8 @@
 2. Coding style
 3. Parametry příkazové řádky
 4. Obsluha vyjímek
-5. Balíčky z internetu
+5. Logování
+6. Balíčky z internetu
 6. Další zdroje
 7. [Inspirace k řešení](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/%C3%9Avod%20do%20programov%C3%A1n%C3%AD%20Python%202/Bonusov%C3%A9%20kapitoly/07_Inspirace%20k%20%C5%99e%C5%A1en%C3%AD)
 

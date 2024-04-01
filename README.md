@@ -14,12 +14,12 @@
 2. Co je to programování 
 
 ### První krůčky
-1. Čísla a řetězce
-2. Proměnné
-3. Funkce a moduly
-4. Vstup a výstup
-5. Podmínky
-6. Sevenční metody
+1. [Čísla a řetězce](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/%C3%9Avod%20do%20programov%C3%A1n%C3%AD%20Python/%C4%8C%C3%ADsla%20a%20%C5%99et%C4%9Bzce)
+2. [Proměnné](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/%C3%9Avod%20do%20programov%C3%A1n%C3%AD%20Python/Prom%C4%9Bnn%C3%A9)
+3. [Funkce a moduly](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/%C3%9Avod%20do%20programov%C3%A1n%C3%AD%20Python/Funkce%20a%20moduly)
+4. [Vstup a výstup](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/%C3%9Avod%20do%20programov%C3%A1n%C3%AD%20Python/Vstup%20a%20v%C3%BDstup)
+5. [Podmínky](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/%C3%9Avod%20do%20programov%C3%A1n%C3%AD%20Python/Podm%C3%ADnky)
+6. [Sekvenční metody](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/%C3%9Avod%20do%20programov%C3%A1n%C3%AD%20Python/Sekven%C4%8Dn%C3%AD%20hodnoty)
 7. [Cykly](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/%C3%9Avod%20do%20programov%C3%A1n%C3%AD%20Python/Cykly)
 8. Kam dál?
 

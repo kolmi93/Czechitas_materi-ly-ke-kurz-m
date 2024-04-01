@@ -20,7 +20,7 @@
 4. Vstup a výstup
 5. Podmínky
 6. Sevenční metody
-7. Cykly
+7. [Cykly](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/%C3%9Avod%20do%20programov%C3%A1n%C3%AD%20Python/Cykly)
 8. Kam dál?
 
 ## Úvod do programování 2

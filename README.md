@@ -5,7 +5,7 @@
 Řešení úloh ze stránek kodim.cz -> https://kodim.cz/czechitas
 
 ## Úvod do programování: Python
-základy programování pro úplné nováčky
+*základy programování pro úplné nováčky*
 
 ### Příprava
 1. Jazyky a nástroje
@@ -22,7 +22,7 @@ základy programování pro úplné nováčky
 8. Kam dál?
 
 ## Úvod do programování 2
-navazující kurz, ve kterém si pohloubíte znalosti jazyka Python
+*navazující kurz, ve kterém si pohloubíte znalosti jazyka Python*
 
 ### Úvod do programování 2
 1. Co všechno umíme
@@ -43,8 +43,8 @@ navazující kurz, ve kterém si pohloubíte znalosti jazyka Python
 6. Další zdroje
 7. Inspirace k řešení
 
-## Objektově orientované prograování
-Kurz objektově orientovaného programování v jazyce Python
+## Objektově orientované programování
+*Kurz objektově orientovaného programování v jazyce Python*
 
 1. Proč používat objektově orientované programování
 2. Třídy a objekty

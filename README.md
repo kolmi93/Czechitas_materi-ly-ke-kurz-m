@@ -33,7 +33,7 @@
 4. [Další datové struktury](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/%C3%9Avod%20do%20programov%C3%A1n%C3%AD%20Python%202/04_Dal%C5%A1%C3%AD%20datov%C3%A9%20struktury)
 5. [Soubory: čtení a zápis](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/%C3%9Avod%20do%20programov%C3%A1n%C3%AD%20Python%202/05_Soubory%20-%20z%C3%A1pis%20a%20%C4%8Dten%C3%AD)
 6. [JSON](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/%C3%9Avod%20do%20programov%C3%A1n%C3%AD%20Python%202/06_JSON)
-7. Komplexní příklad
+7. [Komplexní příklad](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/%C3%9Avod%20do%20programov%C3%A1n%C3%AD%20Python%202/07_Komplexn%C3%AD%20p%C5%99%C3%ADklad)
 8. Opakování
 
 ### Bonusové kapitoly
@@ -52,3 +52,25 @@
 1. Proč používat objektově orientované programování
 2. [Třídy a objekty](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/Objektov%C4%9B%20orientovan%C3%A9%20programov%C3%A1n%C3%AD/02_OOP_T%C5%99%C3%ADdy%20a%20objekty)
 3. [Dědičnost](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/Objektov%C4%9B%20orientovan%C3%A9%20programov%C3%A1n%C3%AD/03_OOP_D%C4%9Bdi%C4%8Dnost)
+
+## Python pro data 1
+*Úvod do zpracování dat v Pythonu*
+
+### Python pro data 1
+1. Instalace
+2. Načtení dat
+3. Podmíněný výběr
+4. Spojování
+5. Agregace a řazení
+6. Vizualizace
+7. Pivot tabulky
+8. Datum a čas a metoda shift
+
+### Získávání dat
+1. Web scraping
+2. Regulární výrazy
+   
+### Bonusové kapitoly
+1. Datum a čas
+2. Jupyter Notebook
+3. Bonusové Pandas

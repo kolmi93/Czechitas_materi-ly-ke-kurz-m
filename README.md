@@ -33,7 +33,7 @@
 4. [Další datové struktury](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/%C3%9Avod%20do%20programov%C3%A1n%C3%AD%20Python%202/04_Dal%C5%A1%C3%AD%20datov%C3%A9%20struktury)
 5. [Soubory: čtení a zápis](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/%C3%9Avod%20do%20programov%C3%A1n%C3%AD%20Python%202/05_Soubory%20-%20z%C3%A1pis%20a%20%C4%8Dten%C3%AD)
 6. [JSON](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/%C3%9Avod%20do%20programov%C3%A1n%C3%AD%20Python%202/06_JSON)
-7. Komplexní příklad
+7. [Komplexní příklad](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/%C3%9Avod%20do%20programov%C3%A1n%C3%AD%20Python%202/07_Komplexn%C3%AD%20p%C5%99%C3%ADklad)
 8. Opakování
 
 ### Bonusové kapitoly

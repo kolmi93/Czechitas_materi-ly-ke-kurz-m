@@ -71,6 +71,6 @@
 2. Regulární výrazy
    
 ### Bonusové kapitoly
-1. Datum a čas
+1. [Datum a čas](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/Python%20pro%20data%201/Bonusov%C3%A9%20kapitoly/Datum%20a%20%C4%8Das)
 2. Jupyter Notebook
 3. Bonusové Pandas

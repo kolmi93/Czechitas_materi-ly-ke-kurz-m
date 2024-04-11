@@ -58,8 +58,8 @@
 
 ### Python pro data 1
 1. Instalace
-2. Načtení dat
-3. Podmíněný výběr
+2. [Načtení dat](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/Python%20pro%20data%201/Python%20pro%20data%201/02_Na%C4%8Dten%C3%AD%20dat)
+3. [Podmíněný výběr](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/Python%20pro%20data%201/Python%20pro%20data%201/03_Podm%C3%ADn%C4%9Bn%C3%BD%20v%C3%BDb%C4%9Br)
 4. Spojování
 5. Agregace a řazení
 6. Vizualizace

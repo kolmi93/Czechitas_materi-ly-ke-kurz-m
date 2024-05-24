@@ -40,7 +40,7 @@
 1. [Cykly 2](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/%C3%9Avod%20do%20programov%C3%A1n%C3%AD%20Python%202/Bonusov%C3%A9%20kapitoly/01_Cykly%202)
 2. Coding style
 3. Parametry příkazové řádky
-4. Obsluha vyjímek
+4. [Obsluha vyjímek](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/%C3%9Avod%20do%20programov%C3%A1n%C3%AD%20Python%202/Bonusov%C3%A9%20kapitoly/04_Obsluha%20v%C3%BDjimek)
 5. Logování
 6. Balíčky z internetu
 7. Další zdroje
@@ -68,7 +68,7 @@
 
 ### Získávání dat
 1. Web scraping
-2. Regulární výrazy
+2. [Regulární výrazy](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/Python%20pro%20data%201/Z%C3%ADsk%C3%A1v%C3%A1n%C3%AD%20dat/02_Regul%C3%A1rn%C3%AD%20v%C3%BDrazy)
    
 ### Bonusové kapitoly
 1. [Datum a čas](https://github.com/kolmi93/Czechitas_materialy_ke_kurzum/tree/main/Python%20pro%20data%201/Bonusov%C3%A9%20kapitoly/Datum%20a%20%C4%8Das)

@@ -1,0 +1,8 @@
+Nakoupit na večeři,2
+Nakrmit kočku,1
+Přečíst si o vlastních výjimkách v Pythonu,2
+nakoupit, 3
+vyluxovat, 1
+vyluovat, 1
+mop, 1
+učesat, 1
